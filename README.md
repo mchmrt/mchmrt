@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mchmrt, a Computer Scientist with long Management Experience in IT & Data Analysis in the Pharma Industry.  
+- 👋 Hi, I’m @mchmrt, a Computer Scientist with long management experience in IT & Data Analysis in the Pharma Industry.  
 - 👀 I’m interested in Data Science Projects with emphasis on Machine Learning.
-- 🌱 I’m currently exercising KERAS in order to upskill my technical capabilities and contribute to Machine Learning Projects.
+- 🌱 I’m currently exercising KERAS in order to upskill my build capabilities and contribute to Machine Learning Projects, end-to-end.
 - 💞️ I’m looking to collaborate as an independent member/freelancer on similar projects.
 - 📫 How to reach me: michael.mertikas@gmail.com
 
