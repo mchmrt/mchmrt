@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mchmrt, a Computer Scientist, based in Athens, Greece, with long management experience in IT & Data Analysis in the Pharma Industry.  
-- 👀 I’m interested in Data Science Projects with emphasis on Machine Learning in Marketing, Finance, Quality, and Operations.
-- 🌱 I’m currently exercising KERAS in order to upskill my build capabilities and contribute to Machine Learning Projects, end-to-end.
-- 💞️ I’m looking to collaborate as an independent member/freelancer on similar projects.
+- 👋 Hi, I’m @mchmrt, a Computer Scientist, with management experience in IT & Data Analytics in the Pharma Industry.  
+- 👀 I’m interested in applying Machine Learning in Marketing, Finance, Quality, and Operations.
+- 🌱 I’m currently exercising KERAS/TensorFlow & Matlab & Mathematica in order to upskill model building capabilities with these frameworks.
+- 💞️ I’m looking to collaborate on similar activities/projects.
 - 📫 How to reach me: michael.mertikas@gmail.com
 
 <!---
